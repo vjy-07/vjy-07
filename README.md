@@ -26,7 +26,10 @@
 
 - 💬 Ask me about **MERN stack, C++ programming, and AI**
 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vijay-grandhi-a193a425a/)** | **gvijaycrl@gmail.com**
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/vijay-grandhi-a193a425a/" target="_blank">LinkedIn</a> | 
+<a href="mailto:gvijaycrl@gmail.com" target="_blank">gvijaycrl@gmail.com</a>
+
 
 - ⚡ Fun fact: **It works on my machine**
 
