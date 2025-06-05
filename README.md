@@ -19,9 +19,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3bsuoUXZSOEMLBo9OaY8KnrfyN-6X_TzTSytDszKlkdzTeyqxNdWcf3Ps204SHvMhCE&usqp=CAU">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vjy-07&label=Profile%20views&color=0e75b6&style=flat" alt="vjy-07" />
-</p>
 
 - 🌱 I’m currently improving problem-solving skills through DSA
 
