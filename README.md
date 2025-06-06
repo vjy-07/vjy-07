@@ -63,12 +63,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjy-07&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=vjy-07&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjy-07&theme=tokyonight" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vjy-07&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjy-07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+
 
 ---
 
