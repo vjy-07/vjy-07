@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vjy-07&theme=tokyonight" alt="GitHub Streak" />
+  <img width="500" src="https://streak-stats.demolab.com?user=vjy-07&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjy-07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
