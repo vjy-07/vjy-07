@@ -98,6 +98,7 @@
 
 
 <!-- Add this below once snake is set up -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/vjy-07/vjy-07/blob/output/github-snake-dark.svg" />
+</p>
+
