@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Vijay Grandhi</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">Software Engineer Trainee| Java | Spring Boot | Backend Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🚀+Aspiring+SDE;⚙️+DSA+in+C%2B%2B;🌟+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=💻+Java+Backend+Developer;🚀+Spring+Boot;⚙️+DSA+|+Problem+Solving;💳+FinTech" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjy-07&label=Profile%20views&color=0e75b6&style=flat" alt="vjy-07" /> </p>
@@ -20,13 +20,13 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3bsuoUXZSOEMLBo9OaY8KnrfyN-6X_TzTSytDszKlkdzTeyqxNdWcf3Ps204SHvMhCE&usqp=CAU">
 
 
-- 🌱 I’m currently improving problem-solving skills through DSA
+- 💼 Software Engineer Trainee at Toucan Payments
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/vjy-07?tab=repositories)
+- ☕ Focused on Java Backend Development
 
-- 💬 Ask me about **MERN stack, C++ programming, and AI**
-
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vijay-grandhi-a193a425a/)** | **gvijaycrl@gmail.com**
+- 💻 Experience building Full-Stack applications
+  
+- 🧩 Solving problems through Data Structures & Algorithms
 
 - ⚡ Fun fact: **It works on my machine**
 
@@ -55,7 +55,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,tailwind,redux,git,github,postman,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,eclipse,idea,cpp,python,react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,git,github,postman,docker,figma,tensorflow,firebase" />
 </p>
 
 ---
